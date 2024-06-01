@@ -174,3 +174,7 @@ This project involves setting up and using Apache Spark to analyze a dataset of 
 ## Conclusion
 
 This project demonstrates how to use PySpark for big data processing, including data loading, transformations, and performance optimizations using caching and Parquet format. For further exploration, additional queries and transformations can be added to analyze other aspects of the home sales dataset.
+
+# Resources 
+- practicing_partitions_solution_colab.ipynb
+- ChatGPT

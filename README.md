@@ -1,7 +1,7 @@
-# Home_Sales
+# Apache Spark Home Sales Analysis
+
 ![House Sales](https://github.com/adunlap2/Module_22/assets/153474345/25e2ea03-93e4-4355-94e2-80919aff0087)
 
-# Apache Spark Home Sales Analysis
 
 ## Overview
 
